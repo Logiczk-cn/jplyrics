@@ -1,7 +1,9 @@
 # 🌸 言叶之栞 (Kotonoha no Shiori) 日本语歌词假名标注
 
+[English](README.md) |简体中文| [日本语](README_JA.md) |
+
 **日文歌词假名标注排版工具**  
-*A Minimalist & Anime-Inspired Japanese Lyrics Furigana (`<ruby>`) & Bilingual Mincho Typography Studio*
+
 
 
 
