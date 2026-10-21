@@ -49,3 +49,30 @@ Simply visit `http://localhost:8080/mincho-lyrics.html` in your browser.
    - Click **One-Click Word Generation** in the top-right corner of the navigation bar to download a `.doc` document, or use the **Copy HTML**, **Copy Text**, and **Export Webpage** buttons in the top bar of the preview pane to share your layout.
 
 Translated with DeepL.com (free version)
+
+## 📐 Core Typography Specification Parameters
+
+| Typography Property | CSS Variable Name | Default Value | Adjustable Range / Description |
+| :--- | :--- | :--- | :--- |
+| **Primary Japanese Font Stack** | `--font-jp` | `Hiragino Mincho ProN, Yu Mincho... ` | Includes 7 built-in font stacks: Mincho, Handwritten, and Rounded |
+| **Chinese Translation Font Stack** | `--font-zh` | `Songti SC, Noto Serif SC...` | Supports Source Song, synchronization with Japanese, Handwritten Kai, and Hei |
+| **Body Text Base Font Size** | `--lyric-font-size` | `26px` | Supports manual input from `12px` to `72px` and 5 preset levels |
+| **Anti-collision Line Height** | `--lyric-line-height` | `2.45` | Supports `2.0` to `3.0`, reserving ample vertical space for `<rt>` |
+| **Ruby Font Scale** | `--ruby-font-scale` | `0.55em` | Supports `0.45em`, `0.50em`, `0.55em`, `0.62em`, and `0.70em` |
+| **Letter Spacing** | `--lyric-letter-spacing` | `0.05em` | Supports continuous adjustment from `-0.05em` to `0.50em` |
+| **Bilingual Font Size Difference** | `--zh-font-scale` | `0.76` | The translated text is approximately `76%` the size of the original Japanese text, creating a clear hierarchy |
+
+## 📁 Repository Directory Structure
+
+```text
+kotonoha-no-shiori/
+├── mincho-lyrics.. html   # Complete single-file web application (includes styles, word segmentation engine, and UI interactions)
+├── README.md                     # Project documentation
+└── LICENSE                       # MIT Open Source License
+```
+
+## 📄 Open Source License
+
+This project is released under the **MIT License**. Feel free to use, modify, and share it.
+
+Translated with DeepL.com (free version)
