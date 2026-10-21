@@ -1,3 +1,7 @@
+# 🌸 言叶之栞----日本语歌词假名标注网页
+
+**[简体中文](README.md) |English| [日本语](README_JA.md) |**
+
 
 **Japanese Lyrics Kana Annotation and Formatting Tool**
 ### Extract lyrics with a single click using a 🎵NetEase Cloud Music🎵 URL
