@@ -1,6 +1,6 @@
-# 🌸 言叶之栞 (Kotonoha no Shiori)
+# 🌸 言叶之栞 (Kotonoha no Shiori) 日本语歌词假名标注
 
-**二次元日文歌词振假名与双语明朝体排版工坊**  
+**日文歌词假名标注排版工具**  
 *A Minimalist & Anime-Inspired Japanese Lyrics Furigana (`<ruby>`) & Bilingual Mincho Typography Studio*
 
 
