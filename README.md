@@ -1,4 +1,3 @@
-# jplyrics
 # 🌸 言叶之栞 (Kotonoha no Shiori)
 
 **二次元日文歌词振假名与双语明朝体排版工坊**  
