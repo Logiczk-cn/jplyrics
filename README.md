@@ -1,7 +1,7 @@
 # 🌸 言叶之栞----日本语歌词假名标注网页
 
 
-**[English](README.md) |简体中文| [日本语](README_JA.md) |**
+**[English](README_EN.md) |简体中文| [日本语](README_JA.md) |**
 
 **日文歌词假名标注排版工具**  
 ### 可以使用 🎵网易云音乐🎵 url链接一键提取歌词
