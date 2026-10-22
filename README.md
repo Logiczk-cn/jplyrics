@@ -1,4 +1,4 @@
-# 🌸 言叶之栞jplyrics----日本语歌词假名标注网页
+# 🌸 言叶之栞jplyrics----日语歌词假名自动标注网页
 
 
 **[English](README_EN.MD) |简体中文| [日本语](README_JA.md) |**
